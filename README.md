@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FuzzDOT
-- 👀 I’m interested in medicine 
-- 🌱 I’m currently learning film production 
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning machine learning algorithms
 - 💞️ I’m looking to collaborate on nothing...
 
 <!---
