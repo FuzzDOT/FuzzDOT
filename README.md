@@ -2,6 +2,13 @@ I build AI systems and production ready software products designed for real worl
 
 My work sits at the intersection of AI/ML, systems engineering, and product execution; from architecting multimodal deep learning models and formal reasoning pipelines to shipping scalable platforms with strong guarantees around correctness, reproducibility, and trust.
 
+<a href="https://github.com/FuzzDOT">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fuzzdot&show=prs_merged,prs_merged_percentage&hide=issues&theme=dracula" />
+</a>
+<a href="https://github.com/FuzzDOT?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzdot&size_weight=0.5&count_weight=0.5&theme=dracula" />
+</a>
+
 I’ve led and built:
 
 • Institutional grade AI systems for auditable financial solvency and risk evaluation, featuring pure function reasoning, immutable audit logs, and byte for byte replayability
