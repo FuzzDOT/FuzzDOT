@@ -19,7 +19,7 @@
 
 ## what i actually do
 
-I build AI systems and production-ready software for real-world, high-stakes environments. My work sits at the intersection of AI/ML research, systems engineering, and product execution — from architecting multimodal deep learning models and probabilistic reasoning pipelines to shipping scalable platforms with strong guarantees around correctness, reproducibility, and trust.
+I build AI systems and production ready software for real world, high stakes environments. My work sits at the intersection of AI/ML research, systems engineering, and product execution — from architecting multimodal deep learning models and probabilistic reasoning pipelines to shipping scalable platforms with strong guarantees around correctness, reproducibility, and trust.
 
 No hype. Just systems that work.
 
@@ -28,10 +28,10 @@ No hype. Just systems that work.
 ## current focus
 
 **NSF ExLAIM REU — Raleigh, NC (Summer 2026)**
-> 1 of 5 selected nationally. LLM Developer on **MerryQuery**, a Flask/PostgreSQL/React educational AI platform deployed in K-12 and university computing education contexts. Shipped: citation pipelines with pgvector cosine similarity, full security hardening (rate limiting, reCAPTCHA v3, cryptographic improvements, brute-force lockout), admin dashboards with live DB health probes, and append-only chunk storage for document rework.
+> 1 of 5 selected nationally. LLM Developer on **MerryQuery**, a Flask/PostgreSQL/React educational AI platform deployed in K-12 and university computing education contexts. Shipped: citation pipelines with pgvector cosine similarity, full security hardening (rate limiting, reCAPTCHA v3, cryptographic improvements, brute force lockout), admin dashboards with live DB health probes, and append only chunk storage for document rework.
 
 **Adventra Labs — Founder & CEO**
-> Independent AI research company building verifiable, safety-first AI systems. Current flagship: **NOVA** — a 1.233B parameter cognitive architecture with Dirichlet evidential uncertainty gating, vacuity-gated continual learning, and causal latent dynamics. Stage 0 published on Zenodo. Stage 1 fully implemented across ~28 files and ~9,500 lines.
+> Independent AI research company building verifiable, safety first AI systems. Current flagship: **NOVA** — a 1.233B parameter cognitive architecture with Dirichlet evidential uncertainty gating, vacuity gated continual learning, and causal latent dynamics. Stage 0 published on Zenodo. Stage 1 fully implemented across ~28 files and ~9,500 lines.
 
 ---
 
@@ -39,12 +39,12 @@ No hype. Just systems that work.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **NOVA** | 1.233B parameter cognitive architecture with evidential uncertainty, continual learning, and causal latent dynamics | PyTorch, FastAPI, Pythia-1.4B |
-| **VexDB** | C++20 parallel HNSW vector database — 9.5x insert throughput vs naive baseline, 7x latency advantage over hnswlib at 14-thread load, 100% recall@10 | C++20, SIMD, lock-free structures |
-| **VERITAS** | 9-microservice deterministic AI evaluation engine with SHA-256 audit chains and 427 tests | Python, FastAPI, PostgreSQL |
-| **MerryQuery** | K-12 and university educational LLM platform with citation, security hardening, and admin infrastructure | Flask, PostgreSQL, React, pgvector |
+| **NOVA** | 1.233B parameter cognitive architecture with evidential uncertainty, continual learning, and causal latent dynamics | PyTorch, FastAPI, Pythia 1.4B |
+| **VexDB** | C++20 parallel HNSW vector database — 9.5x insert throughput vs naive baseline, 7x latency advantage over hnswlib at 14 thread load, 100% recall@10 | C++20, SIMD, lock free structures |
+| **VERITAS** | 9 microservice deterministic AI evaluation engine with SHA 256 audit chains and 427 tests | Python, FastAPI, PostgreSQL |
+| **MerryQuery** | K 12 and university educational LLM platform with citation, security hardening, and admin infrastructure | Flask, PostgreSQL, React, pgvector |
 | **LUMEN** | Transformer built from NumPy autograd (~9M params) trained to val loss 7.49 | NumPy, custom autograd |
-| **Oral Carcinoma Detection** | Co-authored published preprint — ensemble ViT-ResNet for cancer detection | PyTorch, ViT, ResNet |
+| **Oral Carcinoma Detection** | Co authored published preprint — ensemble ViT ResNet for cancer detection | PyTorch, ViT, ResNet |
 
 <div align="center">
 
@@ -102,7 +102,7 @@ No hype. Just systems that work.
 - **NSF ExLAIM REU** — 1 of 5 selected nationally, Summer 2026
 - **2nd Place, Philly Codefest**
 - **MetaCTF** placements
-- Published preprint: ensemble ViT-ResNet for oral carcinoma detection
+- Published preprint: ensemble ViT ResNet for oral carcinoma detection
 - Published NOVA Stage 0 architecture on Zenodo
 
 ---
