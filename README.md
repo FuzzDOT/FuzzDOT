@@ -9,8 +9,8 @@
 
 *NSF ExLAIM Research Intern · Founder & CEO @ Adventra Labs · CS + Data Science @ Pitt*
 
-[![Website](https://img.shields.io/badge/faazmohamed.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://faazmohamed.com)
-[![Adventra Labs](https://img.shields.io/badge/Adventra_Labs-6e40c9?style=for-the-badge&logo=flask&logoColor=white)](https://labs.faazmohamed.com)
+[![Website](https://img.shields.io/badge/faazmohamed.com-000000?style=for-the-badge&logo=squarespace&logoColor=white)](https://faazmohamed.com)
+[![Adventra Labs](https://img.shields.io/badge/Adventra_Labs-6e40c9?style=for-the-badge&logo=squarespace&logoColor=white)](https://labs.faazmohamed.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faazmohamed)
 
 </div>
