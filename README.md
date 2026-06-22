@@ -9,6 +9,7 @@ My work sits at the intersection of AI/ML, systems engineering, and product exec
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzdot&size_weight=0.5&count_weight=0.5&theme=dracula" />
 </a>
 
+
 I’ve led and built:
 
 • Institutional grade AI systems for auditable financial solvency and risk evaluation, featuring pure function reasoning, immutable audit logs, and byte for byte replayability
