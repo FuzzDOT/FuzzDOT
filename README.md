@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Faaz%20Mohamed&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=header&text=Faaz%20Mohamed&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 # hey, i'm faaz.
 
@@ -28,7 +28,7 @@ No hype. Just systems that work.
 ## current focus
 
 **NSF ExLAIM REU — Raleigh, NC (Summer 2026)**
-> 1 of 5 selected nationally. LLM Developer on **MerryQuery**, a Flask/PostgreSQL/React educational AI platform deployed in K-12 and university computing education contexts. Shipped: citation pipelines with pgvector cosine similarity, full security hardening (rate limiting, reCAPTCHA v3, cryptographic improvements, brute force lockout), admin dashboards with live DB health probes, and append only chunk storage for document rework.
+> 1 of 5 selected nationally. Undergrad researcher on **MerryQuery**, a Flask/PostgreSQL/React educational AI platform deployed in K-12 and university computing education contexts. Shipped: citation pipelines with pgvector cosine similarity, full security hardening (rate limiting, reCAPTCHA v3, cryptographic improvements, brute force lockout), admin dashboards with live DB health probes, and append only chunk storage for document rework.
 
 **Adventra Labs — Founder & CEO**
 > Independent AI research company building verifiable, safety first AI systems. Current flagship: **NOVA** — a 1.233B parameter cognitive architecture with Dirichlet evidential uncertainty gating, vacuity gated continual learning, and causal latent dynamics. Stage 0 published on Zenodo. Stage 1 fully implemented across ~28 files and ~9,500 lines.
@@ -85,13 +85,31 @@ No hype. Just systems that work.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SIMD/AVX2](https://img.shields.io/badge/SIMD%20%2F%20AVX2%20%2F%20NEON-555555?style=for-the-badge&logo=intel&logoColor=white)
+![Parallel Algorithms](https://img.shields.io/badge/Parallel_Algorithms-222222?style=for-the-badge&logo=buffer&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Mechanistic Interpretability](https://img.shields.io/badge/Mechanistic_Interpretability-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
+![Attention Visualization](https://img.shields.io/badge/Attention_Visualization-7C3AED?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Activation Probing](https://img.shields.io/badge/Activation_Probing-7C3AED?style=for-the-badge&logo=audiomack&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS SAP](https://img.shields.io/badge/AWS_Solutions_Architect_Pro-in_progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -111,6 +129,6 @@ No hype. Just systems that work.
 
 *building at [labs.faazmohamed.com](https://labs.faazmohamed.com) · writing at [faazmohamed.com](https://faazmohamed.com)*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=footer" width="100%"/>
 
 </div>
