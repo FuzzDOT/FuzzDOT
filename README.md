@@ -22,11 +22,9 @@ No hype. Just systems that work.
 
 ### Now
 
-**Presage, founder and CEO.** An AI native semantic data platform, starting with shipping logistics.
-
 **Adventra Labs, founder and CEO.** An independent AI research company building verifiable, safety first systems. The flagship is **NOVA**, a 1.233B parameter cognitive architecture with Dirichlet evidential uncertainty gating, vacuity gated continual learning and causal latent dynamics. [Stage 0 is on Zenodo](https://doi.org/10.5281/zenodo.20562861); Stage 1 is fully implemented across ~28 files and ~9,500 lines.
 
-**NSF ExLAIM REU, NC State GIC Lab, Summer 2026.** One of five selected nationally. I built core parts of **MerryQuery**, an LLM-powered educational platform used in K-12 and university computing courses: pgvector citation grounding, security hardening (rate limiting, reCAPTCHA v3, brute-force lockout), an admin dashboard with live database health probes, append-only chunk storage, and the quiz and practice assessment system.
+**NSF ExLAIM REU, NC State GIC Lab, Summer 2026.** One of five selected nationally. I built core parts of **MerryQuery**, an LLM powered educational platform used in K-12 and university computing courses: pgvector citation grounding, security hardening (rate limiting, reCAPTCHA v3, brute-force lockout), an admin dashboard with live database health probes, append only chunk storage, and the quiz and practice assessment system.
 
 ### Selected work
 
