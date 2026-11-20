@@ -1,134 +1,58 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=header&text=Faaz%20Mohamed&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<a href="https://faazmohamed.com"><img src="./cards/hero.svg" width="100%" alt="Faaz Mohamed. AI systems researcher. Founder. Builder of things that have to work." /></a>
 
-# hey, i'm faaz.
+<img src="./cards/graph.svg" width="100%" alt="GitHub contribution graph for the last year" />
 
-**AI systems researcher. Founder. Builder of things that have to work.**
+<img src="./cards/activity.svg" width="100%" alt="Contributions per month, with current streak, longest streak, active days and busiest day" />
 
-*NSF ExLAIM Research Intern · Founder & CEO @ Adventra Labs · CS + Data Science @ Pitt*
-
-[![Website](https://img.shields.io/badge/faazmohamed.com-000000?style=for-the-badge&logo=squarespace&logoColor=white)](https://faazmohamed.com)
-[![Adventra Labs](https://img.shields.io/badge/Adventra_Labs-6e40c9?style=for-the-badge&logo=squarespace&logoColor=white)](https://labs.faazmohamed.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faazmohamed)
+<!-- TILES:START -->
+<!-- TILES:END -->
 
 </div>
 
----
+### What I do
 
-## what i actually do
-
-I build AI systems and production ready software for real world, high stakes environments. My work sits at the intersection of AI/ML research, systems engineering, and product execution — from architecting multimodal deep learning models and probabilistic reasoning pipelines to shipping scalable platforms with strong guarantees around correctness, reproducibility, and trust.
+I build AI systems and production software for environments where being wrong is expensive. On the research side that means multimodal deep learning and probabilistic reasoning pipelines; on the product side, platforms with real guarantees around correctness, reproducibility and trust.
 
 No hype. Just systems that work.
 
----
+### Now
 
-## current focus
+**Presage, founder and CEO.** An AI-native semantic data platform, starting with shipping logistics.
 
-**NSF ExLAIM REU — Raleigh, NC (Summer 2026)**
-> 1 of 5 selected nationally. Undergrad researcher on **MerryQuery**, a Flask/PostgreSQL/React educational AI platform deployed in K-12 and university computing education contexts. Shipped: citation pipelines with pgvector cosine similarity, full security hardening (rate limiting, reCAPTCHA v3, cryptographic improvements, brute force lockout), admin dashboards with live DB health probes, and append only chunk storage for document rework.
+**Adventra Labs, founder and CEO.** An independent AI research company building verifiable, safety-first systems. The flagship is **NOVA**, a 1.233B-parameter cognitive architecture with Dirichlet evidential uncertainty gating, vacuity-gated continual learning and causal latent dynamics. [Stage 0 is on Zenodo](https://doi.org/10.5281/zenodo.20562861); Stage 1 is fully implemented across ~28 files and ~9,500 lines.
 
-**Adventra Labs — Founder & CEO**
-> Independent AI research company building verifiable, safety first AI systems. Current flagship: **NOVA** — a 1.233B parameter cognitive architecture with Dirichlet evidential uncertainty gating, vacuity gated continual learning, and causal latent dynamics. Stage 0 published on Zenodo. Stage 1 fully implemented across ~28 files and ~9,500 lines.
+**NSF ExLAIM REU, NC State GIC Lab, Summer 2026.** One of five selected nationally. I built core parts of **MerryQuery**, an LLM-powered educational platform used in K-12 and university computing courses: pgvector citation grounding, security hardening (rate limiting, reCAPTCHA v3, brute-force lockout), an admin dashboard with live database health probes, append-only chunk storage, and the quiz and practice assessment system.
 
----
-
-## selected work
+### Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
-| **NOVA** | 1.233B parameter cognitive architecture with evidential uncertainty, continual learning, and causal latent dynamics | PyTorch, FastAPI, Pythia 1.4B |
-| **VexDB** | C++20 parallel HNSW vector database — 9.5x insert throughput vs naive baseline, 7x latency advantage over hnswlib at 14 thread load, 100% recall@10 | C++20, SIMD, lock free structures |
-| **VERITAS** | 9 microservice deterministic AI evaluation engine with SHA 256 audit chains and 427 tests | Python, FastAPI, PostgreSQL |
-| **MerryQuery** | K 12 and university educational LLM platform with citation, security hardening, and admin infrastructure | Flask, PostgreSQL, React, pgvector |
-| **LUMEN** | Transformer built from NumPy autograd (~9M params) trained to val loss 7.49 | NumPy, custom autograd |
-| **Oral Carcinoma Detection** | Co authored published preprint — ensemble ViT ResNet for cancer detection | PyTorch, ViT, ResNet |
+| **NOVA** | 1.233B-parameter cognitive architecture with evidential uncertainty, continual learning and causal latent dynamics | PyTorch, FastAPI, Pythia 1.4B |
+| **VexDB** | C++20 parallel HNSW vector database: 9.5x insert throughput over a naive baseline, 7x lower latency than hnswlib at 14 threads, 100% recall@10 | C++20, SIMD, lock-free structures |
+| **VERITAS** | Deterministic AI evaluation engine: 9 microservices, SHA-256 audit chains, 427 tests | Python, FastAPI, PostgreSQL |
+| **MerryQuery** | Educational LLM platform for K-12 and university courses, with citation grounding, security hardening and admin tooling | Flask, PostgreSQL, React, pgvector |
+| **LUMEN** | ~9M-parameter transformer on a from-scratch NumPy autograd engine, with mechanistic interpretability tooling | NumPy, custom autograd |
+| **Oral carcinoma detection** | Co-authored preprint: an ensemble ViT and ResNet model for cancer detection ([Zenodo](https://doi.org/10.5281/zenodo.20274795)) | PyTorch, ViT, ResNet |
 
 <div align="center">
 
-[![NOVA on Zenodo](https://img.shields.io/badge/NOVA_Stage_0-Zenodo-blue?style=flat-square&logo=zenodo)](https://doi.org/10.5281/zenodo.20562861)
-[![Carcinoma Preprint](https://img.shields.io/badge/Oral_Carcinoma_Detection-Preprint-green?style=flat-square&logo=zenodo)](https://doi.org/10.5281/zenodo.20274795)
+<!-- REPOS:START -->
+<!-- REPOS:END -->
+
+<img src="./cards/stack.svg" width="100%" alt="Tools I use: Python, C++20, C, TypeScript, PyTorch, FastAPI, PostgreSQL, pgvector, Docker, AWS and more" />
 
 </div>
 
----
+### Recognition
 
-## stats
-
-<div align="center">
-
-<a href="https://github.com/FuzzDOT">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fuzzdot&show=prs_merged,prs_merged_percentage&hide=issues&theme=tokyonight&border_radius=8&hide_border=false" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/FuzzDOT?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzdot&size_weight=0.5&count_weight=0.5&theme=tokyonight&border_radius=8&hide_border=false&layout=compact" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=FuzzDOT&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SIMD/AVX2](https://img.shields.io/badge/SIMD%20%2F%20AVX2%20%2F%20NEON-555555?style=for-the-badge&logo=intel&logoColor=white)
-![Parallel Algorithms](https://img.shields.io/badge/Parallel_Algorithms-222222?style=for-the-badge&logo=buffer&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Mechanistic Interpretability](https://img.shields.io/badge/Mechanistic_Interpretability-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
-![Attention Visualization](https://img.shields.io/badge/Attention_Visualization-7C3AED?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Activation Probing](https://img.shields.io/badge/Activation_Probing-7C3AED?style=for-the-badge&logo=audiomack&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS SAP](https://img.shields.io/badge/AWS_Solutions_Architect_Pro-in_progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-## recognitions
-
-- **NSF ExLAIM REU** — 1 of 5 selected nationally, Summer 2026
-- **2nd Place, Philly Codefest**
+- **NSF ExLAIM REU**, one of five selected nationally, 2026
+- **2nd place, Philly Codefest**
 - **MetaCTF** placements
-- Published preprint: ensemble ViT ResNet for oral carcinoma detection
-- Published NOVA Stage 0 architecture on Zenodo
-
----
+- Preprint on ensemble ViT and ResNet oral carcinoma detection
+- NOVA Stage 0 architecture published on Zenodo
 
 <div align="center">
-
-*building at [labs.faazmohamed.com](https://labs.faazmohamed.com) · writing at [faazmohamed.com](https://faazmohamed.com)*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=footer" width="100%"/>
-
+<sub>Building at <a href="https://labs.faazmohamed.com">labs.faazmohamed.com</a>. Writing at <a href="https://faazmohamed.com">faazmohamed.com</a>. Cards redraw every morning from my contribution data.</sub>
 </div>
