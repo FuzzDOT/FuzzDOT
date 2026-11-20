@@ -2,9 +2,7 @@
 
 <a href="https://faazmohamed.com"><img src="./cards/hero.svg" width="100%" alt="Faaz Mohamed. AI systems researcher. Founder. Builder of things that have to work." /></a>
 <img src="./cards/graph.svg" width="100%" alt="GitHub contribution graph for the last year" />
-
 <img src="./cards/activity.svg" width="100%" alt="Contributions per month, with current streak, longest streak, active days and busiest day" />
-
 <!-- TILES:START -->
 <a href="https://labs.faazmohamed.com"><img src="./cards/tile-research.svg" width="32.5%" alt="Research at Adventra Labs: NOVA and two preprints on Zenodo" /></a>
 <a href="https://github.com/FuzzDOT?tab=repositories"><img src="./cards/tile-systems.svg" width="32.5%" alt="Systems: public repositories on GitHub" /></a>
