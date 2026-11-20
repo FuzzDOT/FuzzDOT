@@ -7,6 +7,9 @@
 <img src="./cards/activity.svg" width="100%" alt="Contributions per month, with current streak, longest streak, active days and busiest day" />
 
 <!-- TILES:START -->
+<a href="https://labs.faazmohamed.com"><img src="./cards/tile-research.svg" width="32.5%" alt="Research at Adventra Labs: NOVA and two preprints on Zenodo" /></a>
+<a href="https://github.com/FuzzDOT?tab=repositories"><img src="./cards/tile-systems.svg" width="32.5%" alt="Systems: public repositories on GitHub" /></a>
+<a href="https://faazmohamed.com"><img src="./cards/tile-company.svg" width="32.5%" alt="Companies: founder of Presage and Adventra Labs" /></a>
 <!-- TILES:END -->
 
 </div>
@@ -39,6 +42,12 @@ No hype. Just systems that work.
 <div align="center">
 
 <!-- REPOS:START -->
+<a href="https://github.com/FuzzDOT/FocusNoBadges"><img src="./cards/repo-0.svg" width="49%" alt="FocusNoBadges: A modernized macOS utility that makes Focus modes actually hide notification badges across applications, including apps whose badge behavior macOS does not otherwise expose as a convenient public setting." /></a>
+<a href="https://github.com/FuzzDOT/vexdb"><img src="./cards/repo-1.svg" width="49%" alt="vexdb: A high performance vector database written in C++20, featuring a custom HNSW graph index, SIMD accelerated distance computation, parallel batch construction, and a concurrent query pipeline" /></a>
+<a href="https://github.com/FuzzDOT/LUMEN"><img src="./cards/repo-2.svg" width="49%" alt="LUMEN: repository" /></a>
+<a href="https://github.com/FuzzDOT/VERITAS"><img src="./cards/repo-3.svg" width="49%" alt="VERITAS: An institutional grade backend system for deterministic, auditable, and reproducible verification of financial solvency claims, built as a microservice architecture across nine independently deployable services." /></a>
+<a href="https://github.com/FuzzDOT/ORDIN"><img src="./cards/repo-4.svg" width="49%" alt="ORDIN: A production grade FastAPI backend for an AI native task orchestration and scheduling system, purpose-built to determine what users should work on next and schedule it realistically against their actual calendar availability" /></a>
+<a href="https://github.com/FuzzDOT/Portfolio-Website"><img src="./cards/repo-5.svg" width="49%" alt="Portfolio-Website: Personal portfolio of Faaz Mohamed built ground up with React, TypeScript, and a lot of attention to detail." /></a>
 <!-- REPOS:END -->
 
 <img src="./cards/stack.svg" width="100%" alt="Tools I use: Python, C++20, C, TypeScript, PyTorch, FastAPI, PostgreSQL, pgvector, Docker, AWS and more" />
