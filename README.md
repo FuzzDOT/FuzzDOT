@@ -1,7 +1,6 @@
 <div align="center">
 
 <a href="https://faazmohamed.com"><img src="./cards/hero.svg" width="100%" alt="Faaz Mohamed. AI systems researcher. Founder. Builder of things that have to work." /></a>
-
 <img src="./cards/graph.svg" width="100%" alt="GitHub contribution graph for the last year" />
 
 <img src="./cards/activity.svg" width="100%" alt="Contributions per month, with current streak, longest streak, active days and busiest day" />
